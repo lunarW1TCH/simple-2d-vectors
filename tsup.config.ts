@@ -16,5 +16,3 @@ export default defineConfig({
   sourcemap: true,
   clean: true,
 });
-
-// TODO: fix composite: false in tsconfig? if needed, might be not
