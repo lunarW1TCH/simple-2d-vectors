@@ -1,6 +1,6 @@
 {
   "name": "simple-2d-vectors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "module": "./src/index.ts",
   "type": "module",
   "exports": "./src/index.ts",
