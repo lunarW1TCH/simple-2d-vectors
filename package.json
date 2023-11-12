@@ -1,6 +1,6 @@
 {
   "name": "simple-2d-vectors",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "module": "./dist/index.js",
   "type": "module",
   "exports": "./dist/index.js",
