@@ -17,5 +17,11 @@
   },
   "scripts": {
     "build": "tsup"
-  }
+  },
+  "keywords": [
+    "math",
+    "vector",
+    "arithmetic",
+    "2d"
+  ]
 }
