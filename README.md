@@ -2,9 +2,11 @@
 
 A lightweight TypeScript library for creating and manipulating 2d vectors. I created it because all vector libraries out there were either too old, depending on browser API or too heavy.
 
-[npm](https://www.npmjs.com/package/simple-2d-vectors)
-[github](https://github.com/lunarW1TCH/simple-2d-vectors)
-[jsr](https://jsr.io/@lunarweb/simple-2d-vectors@1.0.6)
+[Read the docs](https://vectors.lunarweb.dev/)
+
+[npm package](https://www.npmjs.com/package/simple-2d-vectors)
+
+[jsr package](https://jsr.io/@lunarweb/simple-2d-vectors@1.0.6)
 
 ### Quick start
 
